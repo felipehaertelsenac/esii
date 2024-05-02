@@ -1,0 +1,4 @@
+class Trabalhador {
+    trabalhar() {}
+    comer() {}
+}
